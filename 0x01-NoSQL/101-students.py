@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-students
+Returns all students sorted by average score
 """
 
 
