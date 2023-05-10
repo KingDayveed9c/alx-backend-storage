@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This module have a utility function that insert documents
+This is a Python function that inserts a new document in a collection based on kwargs
 """
 import pymongo
 
