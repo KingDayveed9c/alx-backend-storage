@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-find by topic
+returns the list of school having a specific topic
 """
 import pymongo
 
